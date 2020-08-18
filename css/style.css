@@ -1,0 +1,169 @@
+body {
+    color:#333;
+    background-color:#ffffee;
+}
+/*removing the underline of the logo*/
+#logo a{
+    text-decoration:none;
+}
+/*styling the first character of the logo*/
+#logo spam{
+    font-size:20px;
+    color:#0ff;
+    font-style:italic ;
+    font-weight:bolder ;
+    font-family:georgia;
+    font-variant:larger ;
+}
+/*logo style*/
+#logo{
+    background-color:#c1330f;
+    color:white;
+    font-weight:bolder ;
+    height:50px;
+    font-variant:small-caps ;
+    width:100%;
+    position:fixed;
+    text-shadow:2px 2px 1px
+    black;
+}
+/*styling the first character of the logo2*/
+#logo2 spam{
+    font-size:20px;
+    color:#0ff;
+    font-style:italic ;
+    font-weight:bolder ;
+    font-family:georgia;
+    font-variant:larger ;
+}
+/*styling the logo2*/
+#logo2{
+       background-color:#c1330f;
+    color:white;
+    font-weight:bolder ;
+    height:50px;
+    font-variant:small-caps ;
+    width:100%;
+    text-shadow:2px 2px 1px black;   
+}
+/*navigation var style*/
+#myLinks{
+    display:none;
+    background-color:rgb(150,250,200);
+    color:blue;	 
+}
+/*removing the underline of the menu elements*/
+#myLinks a{
+    text-decoration:none;
+}
+/*styling the a hover*/
+#myLinks a.hover active{
+    color:red ;
+}
+/*styling the menu icon*/
+#icon{
+    float:right;
+    position:relative;
+    display:block;
+     background:rgb(150,250,200);
+    width:40px ;
+    height: 50px;
+    color: black; 
+    border:3px solid black; 
+    border-radius:10px;
+}
+/*removing the underline of the table related links*/
+table a{
+    text-decoration:none;
+}
+table{
+    border-width:100%;
+    color:blue;
+    text-align:center ;
+    margin-bottom:10px;
+    margin-top:10px;
+    width:100%;
+    border:2px;
+    border-radius:30p   
+}
+
+/*removing the underline of the footer links*/
+footer a{
+    text-decoration:none;
+    color:white;
+}
+footer{
+    text-align:center;
+    text-decoration:none;
+    background-color:#000;
+    
+}
+/*styling the subscription area*/
+.sub{
+    text-align:center;
+    border:1px;
+    border-radius:10px;
+    margin-bottom:2px;
+    border:2px;
+    background-color:rgb(250, 200, 500);
+}
+/*styling the input area*/
+.mashiga{
+    border:2px;
+    border-radius:20px;
+    background-color:white;
+    color:white;
+    text-align:center ;
+    height:30px;
+    width:300px;
+}
+/*styling the button*/
+.btn{
+    color:white;
+    background-color:green;
+}
+/*styling the social media linked images*/
+.ic{
+    padding-top:20px;
+    border-radius:10px;
+}
+.hotona{
+    float:left;
+    margin-right:10px;
+    border:2px solid blue;
+}
+/*styling social links na game da ni*/
+.ni a{
+    text-decoration:none;
+}
+  
+/*Index style
+••••••••••••••*/
+
+
+
+/*Home style
+••••••••••••••*/
+
+
+
+/*News style
+•••••••••••••*/
+
+
+
+/*About style
+••••••••••••••*/
+
+
+
+/*Blog style
+•••••••••••••*/
+
+
+
+/*privacy policy style
+••••••••••••••••••••••*/
+
+
+
